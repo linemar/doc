@@ -1,0 +1,2 @@
+第一种方式： javac -h . NativeTest.java
+第二种方式： javah com.company.jni.NativeTest
